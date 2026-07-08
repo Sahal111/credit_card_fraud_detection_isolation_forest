@@ -29,8 +29,7 @@
 | 🎓 Nama | **Muhammad Sahal Anwar Hadi** |
 |---|---|
 | 🪪 NIM | **24260032** |
-| 📚 Mata Kuliah | Machine Learning / Kecerdasan Buatan |
-| 🏛️ Jenis Tugas | Skripsi / Tugas Akhir |
+| 📚 Mata Kuliah | Machine Learning |
 
 </div>
 
